@@ -24,3 +24,4 @@ id_rsa_*
 *.ppk
 known_hosts
 config
+node_modules
