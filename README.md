@@ -1,4 +1,4 @@
-# **Unit Test Case Generator - Detailed Report**
+# **Unit Test Case Generator**
 
 ## **1. Introduction**
 The **Unit Test Case Generator** is an API built with **FastAPI** that generates test cases for a given piece of code. It leverages **Google's Gemini AI** to analyze the input code and provide structured test cases. Users can either upload a file containing the code or directly input the code as a string.
