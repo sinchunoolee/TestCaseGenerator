@@ -16,8 +16,8 @@ config.json
 
 
 # Ignore SSH keys and configurations
-id_rsa
-id_rsa.pub
+id_rsa_gh
+id_rsa_gh.pub
 id_rsa_*
 .ssh/
 *.pem
